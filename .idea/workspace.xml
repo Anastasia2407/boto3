@@ -13,8 +13,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/boto3/boto-3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+            <state relative-caret-position="170">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -38,11 +38,6 @@
           <expand>
             <path>
               <item name="boto3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="boto3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="boto3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="boto3" type="462c0819:PsiDirectoryNode" />
               <item name="boto3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -104,8 +99,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/boto3/boto-3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>

@@ -9,7 +9,6 @@ instances = ec2.create_instances(
      KeyName='Devops'
 )
 
-# create a new my own ami ec2 instance
 instances = ec2.create_instances(
      ImageId='ami-055e9447843bc8f47',
      MinCount=1,
@@ -18,7 +17,6 @@ instances = ec2.create_instances(
      KeyName='Devops'
  )
 
-#describing instances
 for instance in ec2.instances.all():
     print(
         "Id: {0}\nPlatform: {1}\nType: {2}\nPublic IPv4: {3}\nAMI: {4}\nState {5}\n".format(
